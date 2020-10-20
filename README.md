@@ -28,9 +28,8 @@ Alternatively, you can replace `~/.themes` with `~/.local/share/themes` but you 
 
 Once installed, simply activate the theme in GNOME Tweak Tool. 
 
-### TODO
+## TODO
 * Flatpak support
-* Poppy dark variant (based off Pop GTK dark)
 
 ## A big thanks to all the contributors for the following projects:
 * horst3180's "Arc" theme
