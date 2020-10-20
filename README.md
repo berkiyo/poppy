@@ -18,7 +18,7 @@ A special thanks to the creators and contributors of Oomox for making this possi
 
 ## Installation
 #### Source
-You can clone the repository and move or copy the `Poppy` and `Poppy-dark` themes into `~/.themes/` or `/usr/share/themes/` .
+You can clone the repository and move or copy the `Poppy` and `Poppy-solid` themes into `~/.themes/` or `/usr/share/themes/` .
 
 Alternative, open a terminal and run the one-liner below. This will clone the repository to your `/tmp` folder, create a `.themes` folder if it already doesn't exist, then copy the theme to that directory.
 
