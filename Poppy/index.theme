@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Poppy
+Comment=A flat theme with transparent elements. Inspired by Pop GTK theme.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Poppy
+MetacityTheme=Poppy
+IconTheme=Adwaita
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Poppy-solid
+Comment=A flat theme inspired by the Pop GTK theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Poppy-solid
+MetacityTheme=Poppy-solid
+IconTheme=Adwaita
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close
