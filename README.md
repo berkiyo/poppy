@@ -10,11 +10,9 @@ A special thanks to the creators and contributors of Oomox for making this possi
 #### Poppy-solid
 ![](https://raw.githubusercontent.com/berkiyo/poppy/main/screenshots/poppy-solid.png)
 
-## A big thanks to all the contributors for the following projects:
-* horst3180's "Arc" theme
-* GNOME's "Adwaita" theme
-* Pop!_OS' "Pop' GTK theme
-* Themix Project's "Oomox" tool
+#### Poppy-dark-solid
+![](https://raw.githubusercontent.com/berkiyo/poppy/main/screenshots/poppy-dark-solid.png)
+
 
 ## Installation
 #### Source
@@ -33,3 +31,9 @@ Once installed, simply activate the theme in GNOME Tweak Tool.
 ### TODO
 * Flatpak support
 * Poppy dark variant (based off Pop GTK dark)
+
+## A big thanks to all the contributors for the following projects:
+* horst3180's "Arc" theme
+* GNOME's "Adwaita" theme
+* Pop!_OS' "Pop' GTK theme
+* Themix Project's "Oomox" tool
